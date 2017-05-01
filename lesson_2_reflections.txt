@@ -27,3 +27,9 @@ at once and it becomes easier to understand.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The result is a new commit with 2 parents.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+As long as the automatic merging is careful it will save
+a lot of time, but manual merging would allow full control over
+the merging procedure.
