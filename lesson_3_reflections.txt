@@ -7,3 +7,9 @@ Why might you want to always pull changes manually rather than having Git automa
 You might not always want the latest version, you also don't want
 to get your work destroyed if a new commit comes on remote repository
 and overwrites yours.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork is a clone from github profile to another github profile that
+references the fact that it's forked and increases fork count of original
+creator. Branch is something else entirely.
