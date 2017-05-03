@@ -18,3 +18,9 @@ What is the benefit of having a copy of the last known state of the remote store
 
 It's a base to work on, if you only ever had one, old state of a remote
 half of your code could be not actual.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I would separate work so that nobody would work on the same files,
+you wouldn't have to learn how to use a version control system, but the
+collaboration part would be limited.
